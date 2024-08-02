@@ -1,31 +1,31 @@
-<h1>BMI Calculator using JS</h1>
+# BMI Calculator using JS
+Welcome to the Body Mass Index (BMI) Calculator project! This tool helps you determine your BMI based on your height and weight, and lets you compare the result with a standard BMI chart to understand your health status.
+Calculates the Body Mass Index of a person, provided with a BMI chart
 
-<p>Calculates the Body Mass Index of a person, provided with a BMI chart</p>
+### Use of the Project
 
-### Use of the Project:
+User enters values - height in cm and weight in kg, and clicks on the "Calculate" button to obtain the BMI value and compare it with the BMI chart.
 
-<p>User enters values - height in cm and weight in kg and clicks on "calculate" button to obtain BMI value and compares the value in the given BMI chart.</p>
+### Used Technologies
+- HTML5
+- CSS3
+- JavaScript
 
-<h3>Used Technologies</h3>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-</ul>
+#### Steps to Use
 
-#### Steps to Use:
+1. **Download or clone the repository**
+    ```bash
+    git clone https://github.com/Bibek6330/BMI-CALCULATOR.git
+    ```
 
----
+2. **Go to the directory**
+    ```bash
+    cd BMI-CALCULATOR
+    ```
 
-- Download or clone the repository
+3. **Run the `index.html` file** in your favorite web browser.
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
+4. **Start Calculating!**
 
-- Go to the directory
-- Run the index.html file
-- Start Calculatings!
 
-<h3> Demo </h3>
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/BMI%20Calculator%20(JS)/snap.PNG"/>
+
