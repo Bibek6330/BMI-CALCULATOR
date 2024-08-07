@@ -16,16 +16,11 @@ User enters values - height in cm and weight in kg, and clicks on the "Calculate
 1. **Download or clone the repository**
     ```bash
     git clone https://github.com/Bibek6330/BMI-CALCULATOR.git
-    ```
+
 
 2. **Go to the directory**
     ```bash
     cd BMI-CALCULATOR
-    ```
-
-3. **Run the `index.html` file** in your favorite web browser.
-
-4. **Start Calculating!**
 
 
 
